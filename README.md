@@ -3,13 +3,12 @@ Global Solution FIAP
 
 # Sistema de Monitoramento Espacial
 
-## Descrição
+### Descrição
 
 Projeto desenvolvido em linguagem C com o objetivo de simular o monitoramento de uma missão espacial.
 
 O sistema permite cadastrar informações da nave, visualizar o status dos sensores, realizar análises automáticas, simular leituras e consultar um histórico de dados registrados.
 
----
 
 ## Integrantes
 
@@ -17,7 +16,7 @@ O sistema permite cadastrar informações da nave, visualizar o status dos senso
 - Lara Dos Santos Cândido Alves - RM 573775
 - Giulliana Maistro Brasolin - RM 569381
 
----
+
 
 ## Funcionalidades
 
@@ -29,7 +28,7 @@ O sistema permite cadastrar informações da nave, visualizar o status dos senso
 - Barra de carregamento
 - Interface colorida no terminal
 
----
+
 
 ## Tecnologias Utilizadas
 
@@ -40,7 +39,7 @@ O sistema permite cadastrar informações da nave, visualizar o status dos senso
 - Biblioteca time.h
 - Biblioteca conio.h
 
----
+
 
 ## Dados Monitorados
 
@@ -59,7 +58,7 @@ O sistema monitora os seguintes parâmetros:
 3. Execute o programa.
 4. Utilize o menu para acessar as funcionalidades.
 
----
+
 
 ## Estrutura do Sistema
 
@@ -87,7 +86,7 @@ Exibe todas as leituras armazenadas e calcula médias dos dados coletados.
 
 Finaliza a execução do sistema.
 
----
+
 
 ## Objetivo Acadêmico
 
@@ -100,7 +99,7 @@ Aplicar conceitos fundamentais de programação em linguagem C, incluindo:
 - Vetores
 - Modularização de código
 
----
+
 
 ## Disciplina
 
