@@ -49,7 +49,7 @@ O sistema monitora os seguintes parâmetros:
 - Nível de energia
 - Status da comunicação
 
----
+
 
 ## Como Executar
 
